@@ -1,0 +1,8 @@
+beautifulsoup4
+streamlit
+yfinance
+pandas
+requests
+expiringdict
+llama-cpp-python
+huggingface-hub

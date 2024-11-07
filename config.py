@@ -1,0 +1,12 @@
+MAX_NEWS_CACHE_SIZE = 128
+MAX_FINANCIAL_ENTRIES = 20
+MAX_NEWS_ENTRIES = 6
+STOCK_OPTIONS = [
+    "AAPL",
+    "GOOGL",
+    "MSFT",
+    "TSLA",
+    "AMZN",
+    "NFLX",
+    "META",
+]
